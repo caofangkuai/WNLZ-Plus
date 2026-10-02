@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_core"
+        android:icon="@drawable/ic_nav_core"
+        android:title="WNLZ Core" />
+    <item
+        android:id="@+id/nav_plugin"
+        android:icon="@drawable/ic_nav_plugin"
+        android:title="插件" />
+    <item
+        android:id="@+id/nav_xp"
+        android:icon="@drawable/ic_nav_xp"
+        android:title="XP模块" />
+</menu>
